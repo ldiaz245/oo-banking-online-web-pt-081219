@@ -1,4 +1,4 @@
-describe "BankAccount" do
+class "BankAccount" do
 
   let(:avi) { BankAccount.new("Avi") }
 
